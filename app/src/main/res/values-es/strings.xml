@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Awesome</string>
+    <string name="title_activity_main">Animación con ConstraintLayout</string>
+    <string name="tv_title">Las islas Galápagos</string>
+    <string name="tv_info">Toque para mas información</string>
+    <string name="tv_description">Las Islas Galápagos, parte de la República del Ecuador, son un archipiélago de islas volcánicas distribuidas a ambos lados del Ecuador en el Océano Pacífico rodeando el centro del Hemisferio Occidental, a 906 km (563 millas) al oeste del Ecuador continental.</string>
+</resources>

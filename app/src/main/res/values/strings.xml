@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Awesome</string>
+    <string name="title_activity_main">Animations with ConstraintLayout</string>
+    <string name="tv_title">The Galápagos Islands</string>
+    <string name="tv_info">Tap for info</string>
+    <string name="tv_description">The Galápagos Islands, part of the Republic of Ecuador, are an archipelago of volcanic islands distributed on either side of the Equator in the Pacific Ocean surrounding the centre of the Western Hemisphere, 906 km (563 mi) west of continental Ecuador.</string>
+</resources>
